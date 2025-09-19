@@ -8,6 +8,11 @@ sites:
     slug: homepage
     expectedStatusCodes:
       - 200
+  - name: Admin
+    url: https://admin.easybits.tech/
+    slug: comstock
+    expectedStatusCodes:
+      - 200
   - name: API
     url: https://api.easybits.tech/api/v0/healthcheck/
     slug: beechbone
@@ -26,6 +31,11 @@ sites:
   - name: Homepage [dev]
     url: https://www.dev.easybits.tech
     slug: homepage-dev
+    expectedStatusCodes:
+      - 200
+  - name: Admin [dev]
+    url: https://admin.dev.easybits.tech/
+    slug: comstock-dev
     expectedStatusCodes:
       - 200
   - name: API [dev]
