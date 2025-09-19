@@ -3,8 +3,14 @@ owner: easybits-tech # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Website
+  - name: Homepage
     url: https://www.easybits.tech
+    slug: homepage
+    expectedStatusCodes:
+      - 200
+  - name: Homepage [dev]
+    url: https://www.dev.easybits.tech
+    slug: homepage-dev
     expectedStatusCodes:
       - 200
 
@@ -12,6 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
+  theme: night
   logoUrl: https://easybits.tech/assets/icons/easybits-logo-white.svg
   name: easybits
   introTitle: "**easybits** is the the easiest Way to build unique automation pipelines."
