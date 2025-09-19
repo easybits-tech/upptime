@@ -15,7 +15,7 @@ sites:
       - 200
   - name: API
     url: https://api.easybits.tech/api/v0/healthcheck/
-    slug: beechbone
+    slug: api
     expectedStatusCodes:
       - 200
   - name: API Controller
@@ -45,7 +45,7 @@ sites:
       - 200
   - name: API [dev]
     url: https://api.dev.easybits.tech/api/v0/healthcheck/
-    slug: beechbone-dev
+    slug: api-dev
     expectedStatusCodes:
       - 200
   - name: API Controller [dev]
