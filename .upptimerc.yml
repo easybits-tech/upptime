@@ -10,7 +10,7 @@ sites:
       - 200
   - name: Admin
     url: https://admin.easybits.tech/
-    slug: comstock
+    slug: admin
     expectedStatusCodes:
       - 200
   - name: API
@@ -40,7 +40,7 @@ sites:
       - 200
   - name: Admin [dev]
     url: https://admin.dev.easybits.tech/
-    slug: comstock-dev
+    slug: admin-dev
     expectedStatusCodes:
       - 200
   - name: API [dev]
