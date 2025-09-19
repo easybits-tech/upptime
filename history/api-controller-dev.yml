@@ -1,7 +1,7 @@
 url: https://api-controller.dev.easybits.tech/health/__ready__
 status: up
 code: 200
-responseTime: 1517
-lastUpdated: 2025-09-19T09:33:52.579Z
+responseTime: 600
+lastUpdated: 2025-09-19T10:11:19.573Z
 startTime: 2025-09-19T09:20:32.432Z
 generator: Upptime <https://github.com/upptime/upptime>
