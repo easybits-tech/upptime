@@ -8,11 +8,41 @@ sites:
     slug: homepage
     expectedStatusCodes:
       - 200
+  - name: API
+    url: https://api.easybits.tech/api/v0/healthcheck/
+    slug: beechbone
+    expectedStatusCodes:
+      - 200
+  - name: API Controller
+    url: https://api-controller.easybits.tech/health/__ready__
+    slug: api-controller
+    expectedStatusCodes:
+      - 200
+  - name: WS Controller
+    url: https://ws-controller.easybits.tech/health/__ready__
+    slug: ws-controller
+    expectedStatusCodes:
+      - 404
   - name: Homepage [dev]
     url: https://www.dev.easybits.tech
     slug: homepage-dev
     expectedStatusCodes:
       - 200
+  - name: API [dev]
+    url: https://api.dev.easybits.tech/api/v0/healthcheck/
+    slug: beechbone-dev
+    expectedStatusCodes:
+      - 200
+  - name: API Controller [dev]
+    url: https://api-controller.dev.easybits.tech/health/__ready__
+    slug: api-controller-dev
+    expectedStatusCodes:
+      - 200
+  - name: WS Controller [dev]
+    url: https://ws-controller.dev.easybits.tech/health/__ready__
+    slug: ws-controller-dev
+    expectedStatusCodes:
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
