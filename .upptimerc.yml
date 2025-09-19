@@ -92,4 +92,4 @@ status-website:
 
 # Schedule config
 workflowSchedule:
-  uptime: "* * * * *"
+  uptime: "*/5 * * * *"
