@@ -7,7 +7,7 @@ sites:
     url: https://www.easybits.tech
     slug: homepage
     expectedStatusCodes:
-      - 500
+      - 200
   - name: Admin
     url: https://admin.easybits.tech/
     slug: comstock
