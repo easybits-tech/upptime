@@ -28,6 +28,11 @@ sites:
     slug: ws-controller
     expectedStatusCodes:
       - 404
+  - name: TG Controller
+    url: https://tg-controller.easybits.tech/health/__ready__
+    slug: tg-controller
+    expectedStatusCodes:
+      - 200
   - name: Homepage [dev]
     url: https://www.dev.easybits.tech
     slug: homepage-dev
@@ -53,6 +58,11 @@ sites:
     slug: ws-controller-dev
     expectedStatusCodes:
       - 404
+  - name: TG Controller [dev]
+    url: https://tg-controller.dev.easybits.tech/health/__ready__
+    slug: tg-controller-dev
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
