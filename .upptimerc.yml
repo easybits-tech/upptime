@@ -22,13 +22,24 @@ status-website:
   theme: night
   logoUrl: https://easybits.tech/assets/icons/easybits-logo-white.svg
   name: easybits
+  favicon: https://easybits.tech/favicon.ico
   introTitle: "**easybits** is the the easiest Way to build unique automation pipelines."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/easybits-tech/upptime).
   navbar:
+    - title: Homepage
+      href: https://www.easybits.tech
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+
+# Schedule config
+workflowSchedule:
+  uptime: "* * * * *"
