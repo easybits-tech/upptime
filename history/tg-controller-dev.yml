@@ -1,7 +1,7 @@
 url: https://tg-controller.dev.easybits.tech/health/__ready__
-status: down
-code: 429
-responseTime: 1530
-lastUpdated: 2025-10-14T11:59:20.870Z
+status: up
+code: 200
+responseTime: 1329
+lastUpdated: 2025-10-14T12:54:44.364Z
 startTime: 2025-09-19T09:33:53.561Z
 generator: Upptime <https://github.com/upptime/upptime>
