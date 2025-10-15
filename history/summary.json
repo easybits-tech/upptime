@@ -168,18 +168,20 @@
     "url": "https://api-controller.dev.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/api-controller.dev.easybits.tech.ico",
     "slug": "api-controller-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1134,
-    "timeDay": 1488,
-    "timeWeek": 1208,
-    "timeMonth": 1134,
-    "timeYear": 1134,
-    "dailyMinutesDown": {}
+    "time": 1144,
+    "timeDay": 1491,
+    "timeWeek": 1243,
+    "timeMonth": 1144,
+    "timeYear": 1144,
+    "dailyMinutesDown": {
+      "2025-10-15": 0
+    }
   },
   {
     "name": "WS Controller [dev]",
