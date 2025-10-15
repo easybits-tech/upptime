@@ -168,19 +168,19 @@
     "url": "https://api-controller.dev.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/api-controller.dev.easybits.tech.ico",
     "slug": "api-controller-dev",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1154,
-    "timeDay": 1499,
-    "timeWeek": 1274,
-    "timeMonth": 1154,
-    "timeYear": 1154,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1164,
+    "timeDay": 1510,
+    "timeWeek": 1301,
+    "timeMonth": 1164,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-10-15": 15
+      "2025-10-15": 0
     }
   },
   {
