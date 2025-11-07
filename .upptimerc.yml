@@ -33,6 +33,11 @@ sites:
     slug: tg-controller
     expectedStatusCodes:
       - 200
+  - name: Extractor
+    url: https://extractor.easybits.tech/
+    slug: extractor-app
+    expectedStatusCodes:
+      - 200
   - name: Homepage [dev]
     url: https://www.dev.easybits.tech
     slug: homepage-dev
@@ -61,6 +66,11 @@ sites:
   - name: TG Controller [dev]
     url: https://tg-controller.dev.easybits.tech/health/__ready__
     slug: tg-controller-dev
+    expectedStatusCodes:
+      - 200
+  - name: Extractor [dev]
+    url: https://extractor.dev.easybits.tech/
+    slug: extractor-app-dev
     expectedStatusCodes:
       - 200
 
