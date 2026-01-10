@@ -1,7 +1,7 @@
 url: https://api.dev.easybits.tech/api/v0/healthcheck/
 status: up
 code: 200
-responseTime: 655
-lastUpdated: 2026-01-09T23:21:34.080Z
+responseTime: 627
+lastUpdated: 2026-01-10T23:20:41.236Z
 startTime: 2025-09-19T10:47:38.027Z
 generator: Upptime <https://github.com/upptime/upptime>
