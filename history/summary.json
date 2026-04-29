@@ -166,9 +166,9 @@
     "url": "https://api.dev.easybits.tech/api/v0/healthcheck/",
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.easybits.tech.ico",
     "slug": "api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -178,6 +178,7 @@
     "timeMonth": 548,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2026-04-29": 0,
       "2025-10-14": 55
     }
   },
@@ -186,9 +187,9 @@
     "url": "https://api-controller.dev.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/api-controller.dev.easybits.tech.ico",
     "slug": "api-controller-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,16 +198,18 @@
     "timeWeek": 1446,
     "timeMonth": 1245,
     "timeYear": 1197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 0
+    }
   },
   {
     "name": "WS Controller [dev]",
     "url": "https://ws-controller.dev.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/ws-controller.dev.easybits.tech.ico",
     "slug": "ws-controller-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,16 +218,18 @@
     "timeWeek": 669,
     "timeMonth": 884,
     "timeYear": 943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 0
+    }
   },
   {
     "name": "TG Controller [dev]",
     "url": "https://tg-controller.dev.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/tg-controller.dev.easybits.tech.ico",
     "slug": "tg-controller-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -234,6 +239,7 @@
     "timeMonth": 950,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2026-04-29": 0,
       "2025-10-14": 55
     }
   },
