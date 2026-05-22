@@ -40,10 +40,10 @@
     "url": "https://api.easybits.tech/api/v0/healthcheck/",
     "icon": "https://icons.duckduckgo.com/ip3/api.easybits.tech.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 557,
@@ -51,17 +51,19 @@
     "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-22": 1
+    }
   },
   {
     "name": "API Controller",
     "url": "https://api-controller.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/api-controller.easybits.tech.ico",
     "slug": "api-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1072,
@@ -69,17 +71,19 @@
     "timeWeek": 518,
     "timeMonth": 797,
     "timeYear": 1072,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-22": 1
+    }
   },
   {
     "name": "WS Controller",
     "url": "https://ws-controller.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/ws-controller.easybits.tech.ico",
     "slug": "ws-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 904,
@@ -87,16 +91,18 @@
     "timeWeek": 523,
     "timeMonth": 748,
     "timeYear": 904,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-22": 1
+    }
   },
   {
     "name": "TG Controller",
     "url": "https://tg-controller.easybits.tech/health/__ready__",
     "icon": "https://icons.duckduckgo.com/ip3/tg-controller.easybits.tech.ico",
     "slug": "tg-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +111,9 @@
     "timeWeek": 512,
     "timeMonth": 801,
     "timeYear": 967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-22": 0
+    }
   },
   {
     "name": "Extractor",
